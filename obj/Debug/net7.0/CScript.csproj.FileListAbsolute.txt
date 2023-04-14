@@ -1,0 +1,15 @@
+D:\Program\Code\CScript\bin\Debug\net7.0\CScript.exe
+D:\Program\Code\CScript\bin\Debug\net7.0\CScript.deps.json
+D:\Program\Code\CScript\bin\Debug\net7.0\CScript.runtimeconfig.json
+D:\Program\Code\CScript\bin\Debug\net7.0\CScript.dll
+D:\Program\Code\CScript\bin\Debug\net7.0\CScript.pdb
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.csproj.AssemblyReference.cache
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.AssemblyInfoInputs.cache
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.AssemblyInfo.cs
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.csproj.CoreCompileInputs.cache
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.dll
+D:\Program\Code\CScript\obj\Debug\net7.0\refint\CScript.dll
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.pdb
+D:\Program\Code\CScript\obj\Debug\net7.0\CScript.genruntimeconfig.cache
+D:\Program\Code\CScript\obj\Debug\net7.0\ref\CScript.dll
